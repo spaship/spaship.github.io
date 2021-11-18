@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://spaship.github.io/blog</id>
+    <title>SPAship Blog</title>
+    <updated>2020-06-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://spaship.github.io/blog"/>
+    <subtitle>SPAship Blog</subtitle>
+    <icon>https://spaship.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>Welcome</id>
+        <link href="https://spaship.github.io/blog/2020/06/30/welcome"/>
+        <updated>2020-06-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello World!]]></summary>
+    </entry>
+</feed>

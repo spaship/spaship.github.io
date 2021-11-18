@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_spaship_documentation=self.webpackChunk_spaship_documentation||[]).push([[848],{7446:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"react","name":"react","count":1,"permalink":"/blog/tags/react"}')}}]);

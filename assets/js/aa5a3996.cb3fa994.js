@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_spaship_documentation=self.webpackChunk_spaship_documentation||[]).push([[898],{4797:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"mdx","name":"mdx","count":1,"permalink":"/blog/tags/mdx"}')}}]);
