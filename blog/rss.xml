@@ -9,8 +9,8 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://spaship.github.io/blog/2020/06/30/welcome</link>
-            <guid>Welcome</guid>
+            <link>https://spaship.github.io/blog/welcome</link>
+            <guid>welcome</guid>
             <pubDate>Tue, 30 Jun 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello World!]]></description>
         </item>
